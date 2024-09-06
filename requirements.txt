@@ -1,0 +1,4 @@
+pymupdf==1.24.10
+Pillow==10.4.0
+pytesseract==0.3.13
+tqdm==4.66.4
